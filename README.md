@@ -1,4 +1,5 @@
 # UNO
 uno
-dos tres cuator 
+dos tres cuatro 
 cinco seis siete
+ocho nueve diez :D
